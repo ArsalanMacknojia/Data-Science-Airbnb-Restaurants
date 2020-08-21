@@ -1,0 +1,16 @@
+
+Statistical Analysis of Restaurants Data:
+        
+Chain restaurants:
+    Mean Latitude: 49.21177500445518
+    Mean Longitude: -122.9432820726248
+            
+    Latitude standard deviation: 0.07942586606394363
+    Longitude standard deviation: 0.24112138830275873
+
+Non-Chain restaurants:
+    Mean Latitude: 49.2220572265992
+    Mean Longitude: -122.98458499938562
+
+    Latitude standard deviation: 0.07623679910567836
+    Longitude standard deviation: 0.22405316225735508
